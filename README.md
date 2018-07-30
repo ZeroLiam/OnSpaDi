@@ -2,8 +2,8 @@
 Arduino and RaspPi backups
 
 - [Arduino](#arduino)
-    - [Ultrasonic Sensor](#UltrasonicSensor)
-    - [ESP8266Client (WiFi Module)](#wifimodule)
+    - [Ultrasonic Sensor](#ultrasonicsensor)
+    - [ESP8266Client (WiFi Module)](#esp8266client-wifi-module)
 
 ## Arduino
 ### UltrasonicSensor
