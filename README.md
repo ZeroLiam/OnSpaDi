@@ -1,5 +1,7 @@
 # OnSpaDi
 Arduino and RaspPi backups
+## NOTE: latest update will be done on October 18th after 18:00!!
+
 
 - [Arduino](#arduino)
     - [Ultrasonic Sensor](#ultrasonicsensor)
